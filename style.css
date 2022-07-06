@@ -110,3 +110,50 @@ body {
     background-color: rgba(255, 228, 196, 0.555);
 
 }
+
+/* ---------------------contribute---------------------------- */
+.contribute {
+    display: flex;
+    margin-left: 80px;
+
+
+}
+
+.half-width {
+    width: 40%;
+    margin: 10px;
+    padding: 10px;
+
+}
+
+.half-width img {
+    width: 90%;
+}
+
+/* -------------------updaet------------------- */
+.update {
+    text-align: center;
+    margin-left: 300px;
+
+
+
+}
+
+.input-background {
+    background-color: bisque;
+    width: 800px;
+    height: 200px;
+}
+
+.update-title {}
+
+.update-input {}
+
+/* -------------------footer------------------- */
+footer {
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
